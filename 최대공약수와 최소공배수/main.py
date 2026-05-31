@@ -7,4 +7,4 @@ def f(a,b):
 r = f(max(a,b),min(a,b))
 print(r)
 print(a*b//r)
-#https://jungol.co.kr/problem/1658?cursor=IjU5MCIsMSwx
+#https://jungol.co.kr/problem/1658
