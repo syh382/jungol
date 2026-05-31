@@ -12,4 +12,5 @@ for i in it.combinations(lis,3):
             if max == num:
                 break
 print(max)
+#브론즈2
 #https://jungol.co.kr/problem/1504
