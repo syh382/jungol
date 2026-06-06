@@ -18,3 +18,5 @@ while not s:
     else:
         s = max*num
 print(f,s)
+# 브론즈 3
+# https://jungol.co.kr/problem/1002
